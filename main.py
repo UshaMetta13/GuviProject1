@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import Select
 import msedgedriver
 import time
 
+
 msedgedriver.install()
 
 # Initialize the Edge Webdriver
